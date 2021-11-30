@@ -1,9 +1,6 @@
 import tools
-name_to_id = {"白锦帆": "BaiJinFan",
-              "宫晨风": "GongChenFeng",
-              "李晓峰": "lintong",
-              "孙阳": "8bff448a58c8315307d6d1761b0ed267",
-              "王倩怡学姐": "Rearrange"}
+name_to_id = {"成员1的姓名": "成员1的UserId",
+              "成员2的姓名": "成员2的UserId"}
 while True:
     print("发送消息(退出请输入0)")
     print("-" * 50)
