@@ -28,12 +28,12 @@
 
 在tools.py中，需要配置以下参数
 
-`corpId = " "
-corpsecret = " "
-token = " "
-encodingAesKey = " "
-ouraccess = " "
-dic = {}`
+`corpId = " "`
+`corpsecret = " "`
+`token = " "`
+`encodingAesKey = " "`
+`ouraccess = " "`
+`dic = {}`
 
 其中，它们分别为
 
